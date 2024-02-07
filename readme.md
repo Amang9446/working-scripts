@@ -1,0 +1,2 @@
+- Script in JavaScript for transferring data from a source MySQL database to a target MySQL database, where multiple table and column names are manually entered. 
+- It also checks the ID of the source table against another table before inserting the data into the target table one by one.
